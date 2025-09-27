@@ -1,19 +1,19 @@
-# 📊 Análise de KPIs em E-commerce  
+# Análise de KPIs em E-commerce  
 
-## 🚀 Sobre o Projeto  
+## Sobre o Projeto  
 Este projeto realiza uma **análise exploratória de dados (EDA)** em um dataset fictício de **2.500 pedidos de e-commerce**.  
 O objetivo foi **identificar os principais KPIs de negócio** e traduzir números em **insights estratégicos** para tomada de decisão.  
 
 ---
 
-## 🛠️ Tecnologias Utilizadas  
+## Tecnologias Utilizadas  
 - **Python 3.11**  
 - **Pandas** → manipulação de dados  
 - **Matplotlib** → visualizações  
 
 ---
 
-## 📈 KPIs Gerais  
+## KPIs Gerais  
 - **Pedidos:** 2.500  
 - **Clientes Únicos:** 1.200  
 - **Receita Total:** R$ 2.9M+  
@@ -24,7 +24,7 @@ O objetivo foi **identificar os principais KPIs de negócio** e traduzir número
 
 ---
 
-## 🔍 Principais Insights  
+## Principais Insights  
 
 ### 1. Receita e Lucro por Categoria  
 - Eletrônicos lideram em **receita absoluta**.  
@@ -55,7 +55,7 @@ O objetivo foi **identificar os principais KPIs de negócio** e traduzir número
 
 ---
 
-## 📊 Visualizações (Exemplos)  
+## Visualizações (Exemplos)  
 - Receita Mensal  
 - Ticket Médio por Canal  
 - ROI de Marketing por Canal  
@@ -66,7 +66,7 @@ O objetivo foi **identificar os principais KPIs de negócio** e traduzir número
 
 ---
 
-## 📌 Conclusão  
+## Conclusão  
 Este projeto mostra como a análise de dados pode responder perguntas-chave de negócio:  
 - **Onde ganhamos dinheiro?** (Categorias e margens)  
 - **Onde perdemos dinheiro?** (Devoluções e ROI baixo)  
@@ -74,5 +74,3 @@ Este projeto mostra como a análise de dados pode responder perguntas-chave de n
 - **Quais canais trazem mais retorno?** (Marketplace e WhatsApp)  
 
 ---
-
-✅ **Sim, este projeto estaria pronto para ser aprovado como parte de um portfólio profissional.**  
